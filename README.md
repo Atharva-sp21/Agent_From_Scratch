@@ -1,8 +1,8 @@
-***Agent From Scratch***
+#Agent From Scratch
 
 This notebook is me trying to build a simple LLM agent that can decide when to call a tool (a Python function) and use its result in the final answer.
 
-What it does
+##What it does
 
 Sends a question to an LLM (Kimi-K2-Thinking from Hugging Face)
 
@@ -28,7 +28,7 @@ runs the function
 
 sends results back to the model
 
-**This is a VISUAL REPRESENTATION of the User - Agent interaction**
+###This is a VISUAL REPRESENTATION of the User - Agent interaction
 
 <img width="1124" height="315" alt="Screenshot 2025-12-09 at 2 15 51 PM" src="https://github.com/user-attachments/assets/d86133e9-9836-4cf0-b3df-6676fd41bd95" />
 
